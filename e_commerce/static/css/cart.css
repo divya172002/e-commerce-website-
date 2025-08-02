@@ -1,0 +1,42 @@
+body {
+    background-color: #f0f0f0;
+    font-family: 'Segoe UI', sans-serif;
+    text-align: center;
+    padding-top: 40px;
+    align-items: center;
+}
+
+h2 {
+    color: #cc3535;
+    margin-bottom: 30px;
+}
+
+.cart-table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 80%;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.cart-table th,
+.cart-table td {
+    padding: 12px 20px;
+    border: 1px solid #100d0d;
+    text-align: center;  
+    vertical-align: middle;
+}
+
+.cart-table th {
+    background-color: #5cb85c;
+    color: white;
+}
+
+.cart-table td {
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    color: #666;
+}
